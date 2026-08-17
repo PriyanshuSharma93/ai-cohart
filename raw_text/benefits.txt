@@ -1,0 +1,29 @@
+Summary of Benefits - Gold PPO Plan
+Plan Name: Gold PPO 2026
+Plan Type: PPO
+Monthly Premium: $612.50
+Annual Deductible: $1,500 (individual) / $3,000 (family)
+Out-of-Pocket Maximum: $6,000 (individual) / $12,000 (family)
+Covered Services:
+- Primary Care Visit: $25 copay
+- Specialist Visit: $50 copay
+- Emergency Room: $250 copay, then plan pays 80%
+- Urgent Care: $75 copay
+- Preventive Care: $0 copay (covered in full)
+- Prescription Drugs (generic): $10 copay
+- Prescription Drugs (brand): $40 copay
+- Lab Work: 20% coinsurance after deductible
+- Imaging (MRI/CT): 20% coinsurance after deductible
+- Physical Therapy: $40 copay per visit
+
+Exclusions and Limitations
+This plan does not cover:
+- Cosmetic procedures not deemed medically necessary
+- Experimental treatments not approved by the FDA
+- Services received outside the network without prior authorization
+Prior Authorization Required For:
+- Inpatient hospital admissions (non-emergency)
+- Advanced imaging (MRI, CT, PET scans)
+- Certain specialty medications
+Member Services: 1-800-555-0182
+Website: www.samplecarehealth-demo.com

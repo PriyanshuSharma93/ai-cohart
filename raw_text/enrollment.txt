@@ -1,0 +1,23 @@
+SAMPLECARE HEALTH PLANS
+MEMBER ENROLLMENT FORM (SYNTHETIC DEMO)
+
+Member Name: Jordan A. Sample
+Date of Birth: 01/15/1990
+Member ID: MBROO99
+
+Plan Selected: Gold PPO 2026
+Effective Date: 01/01/2026
+
+Employer Group: Demo Corp Inc.
+
+Employee ID: EMP-4471
+
+Dependents:
+1. Sam Sample (Spouse) - DOB 03/22/1991
+2. Alex Sample (Child) - DOB 07/09/2015
+
+Signature: Date:
+
+This is a synthetic demo document. No real member
+
+information is contained in this form.
